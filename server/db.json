@@ -1,0 +1,60 @@
+{
+  "questions": [
+    {
+      "id": 0,
+      "title": "Question one ",
+      "description": "Who was the first president of the USA?",
+      "answers": [
+        "Benjamin Franklin",
+        "Alexander Hamilton",
+        "George Washington",
+        "John Adams"
+      ],
+      "correctAnswer": 2,
+      "selectedAnswer": -1,
+      "wasAnswered": false
+    },
+    {
+      "id": 1,
+      "title": "Question two",
+      "description": "What is the capital of Germany?",
+      "answers": [
+        "Hamburg",
+        "Berlin",
+        "Munich",
+        "Drezden"
+      ],
+      "correctAnswer": 1,
+      "selectedAnswer": 3,
+      "wasAnswered": true
+    },
+    {
+      "id": 2,
+      "title": "Question three",
+      "description": "What is the main component of Amba?",
+      "answers": [
+        "Salt",
+        "Ginger",
+        "Wheat",
+        "Mango"
+      ],
+      "correctAnswer": 3,
+      "selectedAnswer": 0,
+      "wasAnswered": true
+    },
+    {
+      "id": 3,
+      "title": "Question four",
+      "description": "What is the best JavaScript framework?",
+      "answers": [
+        "React",
+        "Vue",
+        "Angular",
+        "Svelt"
+      ],
+      "correctAnswer": 0,
+      "selectedAnswer": -1,
+      "wasAnswered": false
+    }
+  ]
+}
